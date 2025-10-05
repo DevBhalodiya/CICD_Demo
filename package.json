@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-ci-cd-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for CI/CD pipeline demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
